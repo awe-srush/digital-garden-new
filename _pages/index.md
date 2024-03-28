@@ -13,8 +13,9 @@ permalink: /
 
 I talk about life in computer science and pop-culture lingo. I like to call myself a love child of Zuckerberg and Osho. But I also have genes of Taylor Swift. 
 
-<img src="{{ site.baseurl }}/assets/love_child.jpg"/>
-*That's what the AI generates*
+<figure><img src="{{ site.baseurl }}/assets/love_child.jpg"/><figcaption>*That's what the AI generates*
+</figcaption>
+</figure>
 
 This place is my collection of ever evolving ideas, contemplations, half-baked thoughts, strikes of genious merging into rounded wikis. Baring my second brain to the world is quite scary but public validation gets us going! 🙃
 
