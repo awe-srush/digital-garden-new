@@ -8,10 +8,17 @@ permalink: /
 # Welcome! 🌱 Hi, I am Srushti 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration of my mind.
+  Take a look at <span style="font-weight: bold">[[my wild mind]]</span> to get started on your exploration of my mind.
 </p>
 
+I talk about life in computer science and pop-culture lingo. I like to call myself a love child of Zuckerberg and Osho. But I also have genes of Taylor Swift. 
+
+<img src="{{ site.baseurl }}/assets/love_child.jpg"/>
+*That's what the AI generates*
+
 This place is my collection of ever evolving ideas, contemplations, half-baked thoughts, strikes of genious merging into rounded wikis. Baring my second brain to the world is quite scary but public validation gets us going! 🙃
+
+<img src="{{ site.baseurl }}/assets/jin-1.jpg"/>
 
 <strong>Recently updated notes</strong>
 
